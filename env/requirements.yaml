@@ -15,7 +15,7 @@ dependencies:
   version: 2.1.1
 - name: lva-electronic-page-handler
   repository: http://jenkins-x-chartmuseum:8080
-  version: 2.3.0
+  version: 2.3.1
 - name: lva-electronic-page-processor
   repository: http://jenkins-x-chartmuseum:8080
   version: 2.2.0
