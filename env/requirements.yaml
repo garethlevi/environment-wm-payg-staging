@@ -27,7 +27,7 @@ dependencies:
   version: 1.3.3
 - name: lva-payg-document-handler
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.7.13
+  version: 1.7.14
 - name: lva-scanned-page-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.4.5
