@@ -42,7 +42,7 @@ dependencies:
   version: 1.3.3
 - name: lva-wingman-templates
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.3.8
+  version: 1.3.9
 - name: lva-wingman-ui
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.3.8
